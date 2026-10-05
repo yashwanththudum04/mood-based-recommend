@@ -1,0 +1,51 @@
+emotion,title,author,genre,why_it_may_fit,keywords
+happy,The House in the Cerulean Sea,TJ Klune,Fantasy,"A warm, optimistic story centered on kindness, belonging, and found family.",joyful cheerful upbeat delighted
+happy,Anne of Green Gables,L. M. Montgomery,Coming-of-age,"Anne’s humor and imaginative outlook make this a bright, comforting read.",joyful cheerful playful optimistic
+happy,A Man Called Ove,Fredrik Backman,Literary fiction,Humor and human connection gradually bring warmth to a prickly character’s life.,joyful cheerful hopeful connected
+happy,The Rosie Project,Graeme Simsion,Romantic comedy,"A light, funny romance with an engaging and affectionate voice.",joyful cheerful amused playful
+happy,The Very Secret Society of Irregular Witches,Sangu Mandanna,Fantasy romance,"A cozy, hopeful story about friendship, love, and finding a home.",joyful cheerful cozy hopeful
+sad,"The Boy, the Mole, the Fox and the Horse",Charlie Mackesy,Illustrated fiction,Short reflections and gentle illustrations offer companionship during a low moment.,sad down blue low comfort
+sad,A Psalm for the Wild-Built,Becky Chambers,Science fiction,"A gentle journey that makes room for uncertainty, rest, and self-kindness.",sad low reflective comfort
+sad,The Little Prince,Antoine de Saint-Exupéry,Fable,"A brief, thoughtful fable about love, loss, and what matters.",sad reflective grieving comfort
+sad,The Midnight Library,Matt Haig,Fantasy,A novel about regret and possibility that may suit readers seeking perspective.,sad low regret hopeful
+sad,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer and Annie Barrows,Historical fiction,"Letters, friendship, and humor bring warmth to a story shaped by hardship.",sad lonely comfort hopeful
+anxious,The Comfort Book,Matt Haig,Essays,Short entries offer reassuring reflections that can be read a little at a time.,anxious worried overwhelmed reassurance
+anxious,The Book of Delights,Ross Gay,Essays,"Brief observations invite attention to small, ordinary sources of pleasure.",anxious worried mindful calm
+anxious,The Wild Robot,Peter Brown,Children’s fiction,"A calm, accessible story about adapting to change and finding connection.",anxious worried change calm
+anxious,The House in the Cerulean Sea,TJ Klune,Fantasy,"A low-stakes, kind-hearted adventure with a reassuring sense of community.",anxious worried comfort cozy
+anxious,The Complete Persepolis,Marjane Satrapi,Graphic memoir,A vivid memoir that can offer perspective and a compelling focus for the mind.,anxious worried distracted perspective
+stressed,Four Thousand Weeks,Oliver Burkeman,Nonfiction,"A practical, humane look at limits, priorities, and easing the pressure to do everything.",stressed overwhelmed pressure busy burnout
+stressed,How to Do Nothing,Jenny Odell,Nonfiction,Explores attention and rest as alternatives to constant demands.,stressed overwhelmed busy rest
+stressed,A Psalm for the Wild-Built,Becky Chambers,Science fiction,"A quiet, short journey that centers rest and listening.",stressed overwhelmed tired calm
+stressed,The Art of Noticing,Rob Walker,Creativity,"Simple prompts encourage a slower, more attentive way to engage with daily life.",stressed overwhelmed distracted mindful
+stressed,The Thursday Murder Club,Richard Osman,Mystery,"A witty, welcoming mystery offers an absorbing change of pace.",stressed overwhelmed tired distraction
+angry,Nonviolent Communication,Marshall B. Rosenberg,Communication,Introduces a structured way to name needs and communicate during conflict.,angry frustrated irritated conflict
+angry,The Book of Delights,Ross Gay,Essays,Short essays can shift attention and create room for a different perspective.,angry frustrated irritated perspective
+angry,"The Boy, the Mole, the Fox and the Horse",Charlie Mackesy,Illustrated fiction,Gentle conversations focus on compassion and asking for help.,angry frustrated hurt comfort
+angry,A Psalm for the Wild-Built,Becky Chambers,Science fiction,"A reflective, unhurried story provides a calm fictional escape.",angry irritated tense calm
+angry,The Anthropocene Reviewed,John Green,Essays,"Personal essays combine humor and reflection, offering a thoughtful change of focus.",angry frustrated reflective distraction
+lonely,Eleanor Oliphant Is Completely Fine,Gail Honeyman,Literary fiction,A character’s gradual connection with others may resonate with readers feeling isolated.,lonely isolated disconnected belonging
+lonely,The Lonely City,Olivia Laing,Memoir and criticism,"Explores loneliness through art, culture, and personal reflection.",lonely isolated alone reflective
+lonely,The House in the Cerulean Sea,TJ Klune,Fantasy,Found family and acceptance sit at the heart of this warm story.,lonely isolated belonging friendship
+lonely,Remarkably Bright Creatures,Shelby Van Pelt,Contemporary fiction,An unexpected friendship helps two characters find connection and purpose.,lonely isolated friendship connection
+lonely,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer and Annie Barrows,Historical fiction,A community formed through letters offers companionship and belonging.,lonely isolated community connection
+bored,Project Hail Mary,Andy Weir,Science fiction,A fast-moving puzzle and space adventure gives curious readers plenty to follow.,bored restless curious adventure
+bored,The Thursday Murder Club,Richard Osman,Mystery,A lively ensemble and accessible mystery keep the plot moving.,bored restless mystery engaging
+bored,The Martian,Andy Weir,Science fiction,A resourceful astronaut tackles one practical problem after another.,bored restless problem solving adventure
+bored,The Hobbit,J. R. R. Tolkien,Fantasy adventure,"A classic quest offers travel, danger, and a memorable cast.",bored restless fantasy adventure
+bored,The Westing Game,Ellen Raskin,Mystery,A clever puzzle invites readers to track clues and form their own theories.,bored restless puzzle mystery
+hopeful,The Midnight Library,Matt Haig,Fantasy,Explores how choices and possibilities can change how a life looks.,hopeful optimistic possibility future
+hopeful,The Alchemist,Paulo Coelho,Fable,A simple quest follows a young shepherd pursuing a meaningful goal.,hopeful optimistic dreams purpose
+hopeful,"The Boy, the Mole, the Fox and the Horse",Charlie Mackesy,Illustrated fiction,"Brief conversations emphasize courage, friendship, and asking for support.",hopeful encouraged courage support
+hopeful,Braiding Sweetgrass,Robin Wall Kimmerer,Nature writing,Blends science and Indigenous knowledge in reflections on reciprocity and care for the natural world.,hopeful inspired nature care
+hopeful,The House in the Cerulean Sea,TJ Klune,Fantasy,A hopeful story about building a more accepting community.,hopeful optimistic belonging future
+curious,Sapiens,Yuval Noah Harari,History,A broad account of human history for readers who enjoy big-picture questions.,curious interested questions learning
+curious,The Code Book,Simon Singh,Popular science,Introduces the history and ideas behind codes and cryptography.,curious interested puzzles science
+curious,The Anthropocene Reviewed,John Green,Essays,"Personal essays examine a wide range of people, places, and cultural artifacts.",curious interested essays discovery
+curious,The Soul of an Octopus,Sy Montgomery,Nature writing,Explores octopus behavior and the questions it raises about animal minds.,curious interested animals nature
+curious,A Short History of Nearly Everything,Bill Bryson,Popular science,A lively tour through major questions in science and the natural world.,curious interested science discovery
+afraid,Coraline,Neil Gaiman,Fantasy,"A compact, imaginative story about facing frightening situations with courage.",afraid scared fear courage spooky
+afraid,The Hobbit,J. R. R. Tolkien,Fantasy adventure,"A reluctant hero faces danger gradually, with friendship and humor along the way.",afraid scared fear courage adventure
+afraid,The Graveyard Book,Neil Gaiman,Fantasy,A coming-of-age story follows a young character learning to navigate a strange world.,afraid scared fear spooky courage
+afraid,The Girl Who Drank the Moon,Kelly Barnhill,Fantasy,A lyrical fantasy about a child discovering her abilities and the people who care for her.,afraid scared fear reassurance fantasy
+afraid,"The Lion, the Witch and the Wardrobe",C. S. Lewis,Fantasy,A classic adventure about siblings who rely on one another in an unfamiliar world.,afraid scared fear courage adventure
